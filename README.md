@@ -1,1 +1,1 @@
-Project: ClassifyWebcamImageonNVIDIAJetson. Please refer to jetson nano word document for a setup instruction
+Project: ClassifyWebcamImageonNVIDIAJetson. Please refer to jetson nano word document for a setup instruction. original link for the example - https://www.mathworks.com/help/coder/nvidia/ug/deploy-classify-webcam-images-jetsonTX2-from-Simulink.html 
